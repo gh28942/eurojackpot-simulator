@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/eurojackpot-simulator/static/css/main.0f754ba6.chunk.css",
+    "main.js": "/eurojackpot-simulator/static/js/main.a5751e58.chunk.js",
+    "main.js.map": "/eurojackpot-simulator/static/js/main.a5751e58.chunk.js.map",
+    "runtime-main.js": "/eurojackpot-simulator/static/js/runtime-main.601c31d0.js",
+    "runtime-main.js.map": "/eurojackpot-simulator/static/js/runtime-main.601c31d0.js.map",
+    "static/css/2.bac56067.chunk.css": "/eurojackpot-simulator/static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js": "/eurojackpot-simulator/static/js/2.effe3d63.chunk.js",
+    "static/js/2.effe3d63.chunk.js.map": "/eurojackpot-simulator/static/js/2.effe3d63.chunk.js.map",
+    "index.html": "/eurojackpot-simulator/index.html",
+    "precache-manifest.156e80b795375ca06a0e7a37405e05c1.js": "/eurojackpot-simulator/precache-manifest.156e80b795375ca06a0e7a37405e05c1.js",
+    "service-worker.js": "/eurojackpot-simulator/service-worker.js",
+    "static/css/2.bac56067.chunk.css.map": "/eurojackpot-simulator/static/css/2.bac56067.chunk.css.map",
+    "static/css/main.0f754ba6.chunk.css.map": "/eurojackpot-simulator/static/css/main.0f754ba6.chunk.css.map",
+    "static/js/2.effe3d63.chunk.js.LICENSE.txt": "/eurojackpot-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/eurojackpot-simulator/static/media/stars.14f57f65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.601c31d0.js",
+    "static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js",
+    "static/css/main.0f754ba6.chunk.css",
+    "static/js/main.a5751e58.chunk.js"
+  ]
+}
